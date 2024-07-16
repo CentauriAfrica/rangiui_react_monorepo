@@ -1,0 +1,9 @@
+{
+  "name": "alfred_ui",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/alfred_ui/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project alfred_ui --web",
+  "targets": {}
+}
